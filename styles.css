@@ -1,0 +1,25 @@
+
+body{
+    margin:0;
+}
+img{
+    width:40%;
+}
+.inline-flex{
+    display: inline-flex;
+}
+.flex{
+    display:flex;
+}
+.inline-block{
+    display: inline-block;
+}
+.block{
+    display: block;
+}
+.margin-left{
+    margin-left: 5%;
+}
+.noMargin{
+    margin: 0;
+}
